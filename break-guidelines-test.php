@@ -34,3 +34,4 @@ define( 'BREA_PLUGIN_PATH', plugin_dir_path( __FILE__ ) );
 
 // Include files.
 require_once BREA_PLUGIN_PATH . 'break-sanitize.php';
+require_once BREA_PLUGIN_PATH . 'break-curl.php';
