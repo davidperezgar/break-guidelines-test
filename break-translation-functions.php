@@ -15,3 +15,5 @@ echo sprintf(
 	esc_html__( 'Hello, %s!', $translation_slug ),
 	'world'
 );
+
+echo esc_html__( 'Hello, world!', 'break-guidelines-test' );
