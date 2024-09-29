@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Break Guidelines Test Plugin
+ * Plugin Name: WPBreak Guidelines Test
  * Plugin URI:  https://github.com/davidperezgar/break-guidelines-test
  * Description: Breaks the Guidelines for testing.
  * Version:     1.0.0
