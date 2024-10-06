@@ -8,7 +8,7 @@
  * Author URI:  https://github.com/davidperezgar
  * Text Domain: break-guidelines-test
  * Domain Path: /languages
- * License:     GPL-2.0+
+ * License:     GNU General Public License (GPL) version 3
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  *
  * Requires at least: 5.4
@@ -18,7 +18,7 @@
  * @package     BreakGuidelinesTest
  * @author      davidperezgar
  * @copyright   2024 DavidPerez
- * @license     GPL-2.0+
+ * @license     GNU General Public License (GPL) version 3
  *
  * @wordpress-plugin
  *
