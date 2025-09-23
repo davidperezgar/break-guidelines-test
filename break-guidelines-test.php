@@ -37,3 +37,5 @@ require_once BREA_PLUGIN_PATH . 'break-sanitize.php';
 require_once BREA_PLUGIN_PATH . 'break-curl.php';
 require_once BREA_PLUGIN_PATH . 'break-phplimit.php';
 require_once BREA_PLUGIN_PATH . 'break-prefix.php';
+
+$review = 'https://wordpress.org/support/plugin/hello-dolly/reviews/?filter=5';
